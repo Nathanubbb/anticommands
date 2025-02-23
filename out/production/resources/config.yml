@@ -1,0 +1,13 @@
+# If False, commands INSIDE the command list will be blocked
+# If True, commands OUTSIDE the command list will be blocked
+sense: false
+
+# List of commands
+commands:
+  - gamemode
+  - lp
+  - ess
+  - rewardads
+
+# Message to send for not permitted commands
+not-permitted: "Unknown or invalid command. Try with a different command"

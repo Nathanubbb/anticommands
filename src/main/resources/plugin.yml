@@ -1,0 +1,7 @@
+name: AntiCommands
+version: '1.0-SNAPSHOT'
+main: it.R_Developing.AntiCommands.AntiCommands
+api-version: '1.21'
+commands:
+  anticommands:
+    description: 'For reload'
